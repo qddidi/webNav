@@ -64,37 +64,14 @@ export const NAV_DATA: NavData[] = [
         title: 'Beautiful.ai（PPT）',
         link: 'https://www.beautiful.ai',
       },
-    ],
-  },
-  {
-    title: '茂茂的站点导航',
-    items: [
       {
-        icon: '/logo.png',
-        title: '前端日常笔记',
-        desc: '日常笔记记录（零零散散啥都记系列）',
-        link: 'https://github.com/maomao1996/daily-notes',
-      },
-      {
-        icon: '/logo.png',
-        title: '前端思维导图',
-        desc: '用思维导图的方式总结个人所学知识',
-        link: 'https://mindmap.fe-mm.com',
-      },
-      {
-        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
-        title: 'Qwerty Learner',
-        desc: '为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件',
-        link: 'https://qwerty.fe-mm.com',
-      },
-      {
-        icon: '/logo.png',
-        title: 'mmPlayer',
-        desc: 'mmPlayer 在线音乐播放器',
-        link: 'https://netease-music.fe-mm.com',
+        icon: 'https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/static/image/pink-man.602bc9b4.png',
+        title: '扣子',
+        link: 'https://www.coze.cn/',
       },
     ],
   },
+
   {
     title: 'React 生态',
     items: [
@@ -294,6 +271,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://developers.weixin.qq.com/miniprogram/dev/framework/',
       },
       {
+        icon: 'https://gw.alipayobjects.com/zos/bmw-prod/f466695f-f426-4e79-ae69-ecdf64a03c71.svg',
+        title: '支付宝小程序文档',
+        desc: '支付宝小程序官方开发者文档',
+        link: 'https://opendocs.alipay.com/mini',
+      },
+      {
         icon: '/icons/taro.svg',
         title: 'Taro',
         desc: '多端统一开发解决方案',
@@ -486,6 +469,35 @@ export const NAV_DATA: NavData[] = [
         title: 'Emoji searcher',
         desc: 'Emoji 表情大全',
         link: '',
+      },
+    ],
+  },
+  {
+    title: '前端公众号推荐',
+    items: [
+      {
+        icon: 'http://wx.qlogo.cn/mmhead/Q3auHgzwzM5qD7NlduzhyCz83RialqCY3hAhiblYHYkeV3EBia9E0WY4g/0',
+        title: 'web前端进阶',
+        desc: '文章质量极高,涵盖前端实战项目、面试、全栈等各种优质推文',
+        link: 'https://mp.weixin.qq.com/s?__biz=MzI2NzY3NDQzMg==&mid=2247486424&idx=1&sn=e9314f045dd0c84117ad5881f60b03fc&scene=19#wechat_redirect',
+      },
+      {
+        icon: 'https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg',
+        title: '神光的编程秘籍',
+        desc: '神说要有光zxg',
+        link: 'https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico',
+      },
+      {
+        icon: 'https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/logo.svg',
+        title: '高级前端进阶',
+        desc: '高级前端进阶',
+        link: 'https://mp.weixin.qq.com/s/WaoElg-QGsBSjhfLYjKz8g',
+      },
+      {
+        icon: 'https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg',
+        title: '稀土掘金',
+        desc: '稀土掘金',
+        link: 'https://mp.weixin.qq.com/s/1iR4XgxDeO08NZFMEGdRBw',
       },
     ],
   },
