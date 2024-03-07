@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qddidi.git"
+    "url": "https://gitee.com/geeksdidi/web_nav"
   },
   "author": "maomao1996 <1714487678@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/qddidi/issues"
   },
-  "homepage": "https://github.com/qddidi#readme",
+  "homepage": "https://gitee.com/geeksdidi/web_nav",
   "devDependencies": {
     "@femm/prettier": "^1.1.0",
     "@femm/tailwind-config": "^1.0.0",
